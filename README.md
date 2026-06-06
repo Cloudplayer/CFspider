@@ -1,3 +1,5 @@
+> **📌 Note:** This repository has been migrated to [violet27chen/CFspider](https://github.com/violet27chen/CFspider). The old account is no longer maintained.
+
 # CFspider
 
 [![PyPI version](https://img.shields.io/pypi/v/cfspider)](https://pypi.org/project/cfspider/)
